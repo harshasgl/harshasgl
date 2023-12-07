@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshasgl
-- 👀 I’m interested in ... ethical hacking 
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ... embedded systems,embedded C
+- 🌱 I’m currently learning ...C,C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 Through my gmail address
