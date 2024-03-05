@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshasgl
-- 👀 I’m interested in embedded systems,embedded C
+- 👀 I’m interested in embedded systems,embedded C, Firmware
 - 🌱 I’m currently learning C,C++,OOPs, Data structures and Algorithms, Linux, Shell scripting
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me throw my email.
